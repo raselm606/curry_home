@@ -581,6 +581,27 @@ h6{
 	.titleareaa h2:after {
     left: 19%;
 	}
+    .header_text_curry h1 {
+    font-size: 27px;
+    }
+    .headttop span {
+    font-size: 27px;
+    margin-bottom: 15px;
+    display: block;
+    margin-top: 20px;
+    }
+    .headttop h4 {
+    font-size: 21px;
+    }
+    .offset-curry-1 {
+    margin-left: 0 !important;
+    }
+    .bottom_long_text h4 {
+    font-size: 21px;
+    }
+    .faarm_items span {
+    font-size: 17px;
+    }
 	
 }
 @media only screen and (min-width: 320px) and (max-width: 568px){
@@ -611,5 +632,27 @@ h6{
 	.titleareaa h2:after {
     left: 19%;
 	}
+    .header_text_curry h1 {
+    font-size: 27px;
+    }
+    .headttop span {
+    font-size: 27px;
+    margin-bottom: 15px;
+    display: block;
+    margin-top: 20px;
+    }
+    .headttop h4 {
+    font-size: 21px;
+    }
+    .offset-curry-1 {
+    margin-left: 0 !important;
+    }
+
+    .bottom_long_text h4 {
+    font-size: 21px;
+    }
+    .faarm_items span {
+    font-size: 17px;
+    }
 	
 }
